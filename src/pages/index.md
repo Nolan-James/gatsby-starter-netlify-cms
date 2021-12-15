@@ -1,21 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Angelic Auras
+image: /img/nico-frey-jfknhsganfq-unsplash.jpg
+heading: Spiritual Guidance
+subheading: Healing for the Mind, Body & Soul
 mainpitch:
-  title: Why Kaldi
+  title: Advanced level Energy Healer
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    I have been qualified as an Advanced level Energy Healer for well over a
+    decade now working with the subtle energies of people, the planet and
+    animals.  I have a keen interest in crystals, essential oils and herbalism
+    especially plant based medicine and follow a vegan lifestyle.  I am from an
+    ancestral line of natural healers and psychics working in and guided by the
+    highest divine light.
+
+
+    My dedicated healing room is a safe and welcoming space inspired by nature and infused with highest divine Angelic light.  Our intention is that you are embraced in these soft and beautiful higher vibrational energies during your session to wellness. Energy Healing works with the whole of you – physical, mental, emotional and spiritual.  Its effects can be quite life changing.  Your Aura also known as your energy field radiates out all around you and by cleansing, balancing and re-energising both your Aura and Chakra system we activate the body’s own natural ability to heal itself.
+description: I also offer Spiritual Guidance, Angel Therapy and Meditation
+  Sessions – contact me for further details.
 intro:
   blurbs:
     - image: /img/coffee.png
